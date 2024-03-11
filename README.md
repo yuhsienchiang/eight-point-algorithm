@@ -66,3 +66,14 @@ The project uses `python==3.12.2`, and the dependencies can be installed by runn
 ```
 pip install -r requirements.txt
 ```
+
+## References
+
+- [In Defense of the Eight-Point Algorithm](https://ieeexplore.ieee.org/document/601246)
+- [Revisiting Hartley's Normalized Eight-Point Algorithm](https://ieeexplore.ieee.org/document/1227992)
+- [Intrinsic and Extrinsic Matrices | Camera Calibration](https://youtu.be/2XM2Rb2pfyQ?si=n0okRbjoDhTG-MV-)
+- [Overview | Uncalibrated Stereo](https://youtu.be/dUDMQ6dwWDA?si=3gW8P4gI7PN6oJUw)
+- [Problem of Uncalibrated Stereo | Uncalibrated Stereo](https://youtu.be/v30I-BqGfuI?si=eb93AsN5UxrGsPsJ)
+- [Epipolar Geometry | Uncalibrated Stereo](https://youtu.be/6kpBqfgSPRc?si=Ujg5QJrS5l7C-sw9)
+- [Estimating Fundamental Matrix | Uncalibrated Stereo](https://youtu.be/izpYAwJ0Hlw?si=HkibvPryj96pd37o)
+- [Finding Correspondences | Uncalibrated Stereo](https://youtu.be/erpiFudDBlg?si=4w5IbkmpIJW84SS0)
